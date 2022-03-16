@@ -1,6 +1,12 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+It's a test task for kaiko.
+
+The brands and images are managed via a json file, which makes it easy to add and remove brands without needs to make code changes.
+All the brands are maintained under NewOrderGenerator in the brandsList json file.
+Brand images sit in the assets / images folder.
+
 
 ## Available Scripts
 

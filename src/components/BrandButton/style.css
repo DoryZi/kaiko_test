@@ -1,0 +1,26 @@
+.button-container {
+    height: 10em;
+    width: 10em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.button-container:hover {
+    border: 1px solid lightgreen;
+}
+
+.button-container.selected:hover {
+    border: 2px solid lightgreen;
+}
+
+.button-container.selected {
+    border: 2px solid darkgreen;
+}
+
+
+.button-image {
+    max-height: 8em
+}

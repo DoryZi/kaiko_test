@@ -1,0 +1,43 @@
+[
+    {
+        "id": 1,
+        "name": "Joybird",
+        "logo": "joybird-logo.jpeg"
+    },
+    {
+        "id": 2,
+        "name": "Fendi Casa",
+        "logo": "fendi-casa-logo.png"
+    },
+    {
+        "id": 3,
+        "name": "Natuzzi Italy",
+        "logo": "natuzzi-logo.png"
+    },
+    {
+        "id": 4,
+        "name": "Restoration Hardware",
+        "logo": "restoration-hardware-logo.png"
+    },
+    {
+        "id": 5,
+        "name": "Room & Board",
+        "logo": "room-board-logo.png"
+    },
+    {
+        "id": 6,
+        "name": "West Elm",
+        "logo": "west-elm-logo.png"
+    },
+    {
+        "id": 7,
+        "name": "Kelly Wearstler",
+        "logo": "kelly-wearstler.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Brabbu",
+        "logo": "brabbu-logo.jpg"
+    }
+
+]
